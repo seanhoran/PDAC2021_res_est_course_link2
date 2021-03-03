@@ -70,8 +70,8 @@ if exercise == radio_options[3]:
   pass
 #   variograms.variograms()
 if exercise == radio_options[4]:
-#   block_modelling.block_modelling()
-  pass
+  block_modelling.block_modelling()
+#   pass
 #   interp.block_modelling()
 if exercise == radio_options[5]:
   pass
