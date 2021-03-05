@@ -71,11 +71,11 @@ if exercise == radio_options[3]:
 #   variograms.variograms()
 if exercise == radio_options[4]:
 #   block_modelling.block_modelling()
-#   st.write("Page available during nominated exercise session")
-  interp.block_modelling()
-if exercise == radio_options[5]:
   st.write("Page available during nominated exercise session")
-#   cut_off.cut_off()
+#   interp.block_modelling()
+if exercise == radio_options[5]:
+#   st.write("Page available during nominated exercise session")
+  cut_off.cut_off()
 if exercise == radio_options[6]:
   st.write("Page available during nominated exercise session")
 #   reporting.reporting()
