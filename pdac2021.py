@@ -68,11 +68,11 @@ if exercise == radio_options[2]:
 #   capping_ex.capping_ex()
 if exercise == radio_options[3]:
 #   st.write("Page available during nominated exercise session")
-  variograms.variograms()
+#   variograms.variograms()
 if exercise == radio_options[4]:
 #   block_modelling.block_modelling()
-  st.write("Page available during nominated exercise session")
-#   interp.block_modelling()
+#   st.write("Page available during nominated exercise session")
+  interp.block_modelling()
 if exercise == radio_options[5]:
   st.write("Page available during nominated exercise session")
 #   cut_off.cut_off()
