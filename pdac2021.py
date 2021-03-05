@@ -74,8 +74,8 @@ if exercise == radio_options[4]:
   st.write("Page available during nominated exercise session")
 #   interp.block_modelling()
 if exercise == radio_options[5]:
-#   st.write("Page available during nominated exercise session")
-  cut_off.cut_off()
-if exercise == radio_options[6]:
   st.write("Page available during nominated exercise session")
-#   reporting.reporting()
+#   cut_off.cut_off()
+if exercise == radio_options[6]:
+#   st.write("Page available during nominated exercise session")
+  reporting.reporting()
